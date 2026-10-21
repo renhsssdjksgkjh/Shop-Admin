@@ -1,0 +1,33 @@
+{
+  "name": "shop-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^6.3.0",
+    "@vueuse/core": "^14.0.0",
+    "@vueuse/integrations": "^14.0.0",
+    "axios": "^1.13.2",
+    "echarts": "^6.0.0",
+    "element-plus": "^2.11.7",
+    "gasp": "^0.0.2",
+    "gsap": "^3.13.0",
+    "nprogress": "^0.2.0",
+    "tinymce": "^6.1.2",
+    "universal-cookie": "^7.2.2",
+    "vue": "^3.5.22",
+    "vue-router": "^4.6.3",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.7",
+    "vite-plugin-windicss": "^1.9.4",
+    "windicss": "^3.5.6"
+  }
+}
